@@ -4,6 +4,9 @@
 Operation Log Recon
 
 => Developed a Python Tool for Log Analysis:
+  -> Created a Python tool to analyze “auth.log” data.
+  -> Enabled extraction, examination, and interpretation of log entries.
+  -> Identified system operations, security threats, and anomalies.
 
   -> Created a Python tool to analyze “auth.log” data.
 
